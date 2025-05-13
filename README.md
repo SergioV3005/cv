@@ -1,2 +1,7 @@
 # CV repository
-This repository contains my CV and obtained certifications.
+
+This repository contains: 
+- **CV** 
+- **Certifications**
+
+Last update: 12 May 2025
