@@ -1,7 +1,7 @@
 # CV repository
 
 This repository contains: 
-- **CV** 
-- **Certifications**
 
-Last update: 12 May 2025
+- **CV**  (last update: 12 May 2025)
+
+- **Certifications**
